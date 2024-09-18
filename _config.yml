@@ -1,1 +1,26 @@
-theme: jekyll-theme-minimal
+# Configuration pour le site GitHub Pages utilisant Jekyll
+
+# Thème local
+#theme: jekyll-theme-minimal
+
+# Thème distant
+remote_theme: "pages-themes/cayman@v0.2.0"
+
+# Plugins Jekyll
+plugins:
+  - jekyll-remote-theme
+
+# Groupes de gems pour les plugins Jekyll
+gem:
+  "github-pages":
+    group: :jekyll_plugins
+
+# Métadonnées de base pour ton site
+title: "Titre de votre site"
+description: "Une courte description de votre site"
+
+# Options supplémentaires
+show_downloads: false          # Affiche un lien de téléchargement (true ou false)
+google_analytics: # UA-XXXXXXXX-X  # ID de suivi Google Analytics
+
+
