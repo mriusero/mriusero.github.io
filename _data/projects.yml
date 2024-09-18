@@ -1,0 +1,43 @@
+- title: "Python Handling with Exchange Data"
+  url: "https://github.com/mriusero/projet-python"
+  description: "Ce projet explore l'analyse de données d'échange en Python."
+
+- title: "Databricks and Apache Spark Handling with Scala"
+  url: "https://github.com/mriusero/projet-cloud-1"
+  description: "Utilisation de Databricks et Apache Spark avec Scala pour l'analyse de données."
+
+- title: "Data Visualization & Text Mining on Bitcoin Data"
+  url: "https://github.com/mriusero/projet-sda-dash-streamlit"
+  description: "Un projet de visualisation de données et d'exploration textuelle sur les données de Bitcoin."
+
+- title: "Statistical Analysis on Work & Education"
+  url: "https://github.com/mriusero/projet-statistique"
+  description: "Analyse statistique des données de travail et d'éducation."
+
+- title: "Movie Recommendation System with Java, Neo4J & Custom Processors"
+  url: "https://github.com/mriusero/projet-cloud-2"
+  description: "Système de recommandation de films basé sur Java et Neo4J."
+
+- title: "BI Architecture on Microsoft Azure"
+  url: "https://github.com/mriusero/projet-BI"
+  description: "Architecture Business Intelligence sur Azure."
+
+- title: "Kaggle Challenge for Predictive Maintenance on Industrial Robots"
+  url: "https://github.com/mriusero/projet-sda-machine-learning"
+  description: "Challenge Kaggle sur la maintenance prédictive des robots industriels."
+
+- title: "MLOps Project with MLflow, CI/CD & AWS Deployment"
+  url: "https://github.com/mriusero/projet-sda-mlops"
+  description: "Projet MLOps avec MLflow et déploiement CI/CD sur AWS."
+
+- title: "Low-Latency Travel Price Calculation with Apache NiFi & GCP"
+  url: "https://github.com/mriusero/projet-sda-cloud-3"
+  description: "Calcul en temps réel des prix de voyages avec Apache NiFi et Google Cloud."
+
+- title: "Deep Learning"
+  url: "https://github.com/mriusero/to-create"
+  description: "Exploration des concepts avancés en deep learning."
+
+- title: "Gen AI"
+  url: "https://github.com/mriusero/to-create"
+  description: "Génération d'IA et apprentissage automatique."

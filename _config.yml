@@ -1,7 +1,7 @@
 # Configuration pour le site GitHub Pages utilisant Jekyll
 
 # Thème local
-#theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 
 # Thème distant
 remote_theme: "pages-themes/cayman@v0.2.0"
@@ -15,12 +15,19 @@ gem:
   "github-pages":
     group: :jekyll_plugins
 
-# Métadonnées de base pour ton site
-title: "mriusero"
-description: "Sorbonne Data Analytics Learnings"
+title: "Portfolio"
+description: "Showcasing my learning projects"
+show_downloads: false
+google_analytics: ## UA-XXXXXXXX-X
 
-# Options supplémentaires
-show_downloads: false          # Affiche un lien de téléchargement (true ou false)
-google_analytics: # UA-XXXXXXXX-X  # ID de suivi Google Analytics
-
+# Custom navigation
+navigation:
+  - name: "Home"
+    link: /
+  - name: "About Me"
+    link: /about
+  - name: "Projects"
+    link: /index.md
+  - name: "Contact"
+    link: /contact
 
