@@ -7,30 +7,11 @@ a {
   color: #4791ff; /* Tomato color */
 }
 
-// Barre de navigation
-nav {
-  background-color: #007bff;
-  padding: 10px;
-  text-align: center;
+// Your custom styles below
+body {
+    background-color: #f0f0f0;
 }
 
-nav ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-
-nav ul li {
-  display: inline;
-  margin: 0 15px;
-}
-
-nav ul li a {
-  color: white;
-  text-decoration: none;
-  font-weight: bold;
-}
-
-nav ul li a:hover {
-  text-decoration: underline;
+h1 {
+    color: #333;
 }
