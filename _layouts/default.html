@@ -1,30 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>{{ page.title | default: site.title }}</title>
-  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  {% include head.html %}
 </head>
 <body>
-  <!-- Navigation Bar -->
-  <nav>
-    <ul>
-      <li><a href="{{ '/' | relative_url }}">Home</a></li>
-      <li><a href="{{ '/about' | relative_url }}">About Me</a></li>
-      <li><a href="{{ '/index.md' | relative_url }}">Projects</a></li>
-      <li><a href="{{ '/contact' | relative_url }}">Contact</a></li>
-    </ul>
-  </nav>
-
-  <!-- Main content -->
+  {% include nav.html %}
   <main>
     {{ content }}
   </main>
-
-  <footer>
-    <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}</p>
-  </footer>
+  {% include footer.html %}
 </body>
 </html>

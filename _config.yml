@@ -1,7 +1,7 @@
 # Configuration pour le site GitHub Pages utilisant Jekyll
 
 # Thème local
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
 
 # Thème distant
 remote_theme: "pages-themes/cayman@v0.2.0"
@@ -26,8 +26,6 @@ navigation:
     link: /
   - name: "About Me"
     link: /about
-  - name: "Projects"
-    link: /index.md
   - name: "Contact"
     link: /contact
 
