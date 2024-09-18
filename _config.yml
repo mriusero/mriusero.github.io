@@ -16,8 +16,8 @@ gem:
     group: :jekyll_plugins
 
 # Métadonnées de base pour ton site
-title: "Titre de votre site"
-description: "Une courte description de votre site"
+title: "mriusero"
+description: "Sorbonne Data Analytics Learnings"
 
 # Options supplémentaires
 show_downloads: false          # Affiche un lien de téléchargement (true ou false)
