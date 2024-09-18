@@ -1,43 +1,43 @@
 - title: "Python Handling with Exchange Data"
   url: "https://github.com/mriusero/projet-python"
-  description: "Ce projet explore l'analyse de données d'échange en Python."
+  description: "This project explores exchange data analysis using Python."
 
 - title: "Databricks and Apache Spark Handling with Scala"
   url: "https://github.com/mriusero/projet-cloud-1"
-  description: "Utilisation de Databricks et Apache Spark avec Scala pour l'analyse de données."
+  description: "Using Databricks and Apache Spark with Scala for data analysis."
 
 - title: "Data Visualization & Text Mining on Bitcoin Data"
   url: "https://github.com/mriusero/projet-sda-dash-streamlit"
-  description: "Un projet de visualisation de données et d'exploration textuelle sur les données de Bitcoin."
+  description: "A project for data visualization and text mining on Bitcoin data."
 
 - title: "Statistical Analysis on Work & Education"
   url: "https://github.com/mriusero/projet-statistique"
-  description: "Analyse statistique des données de travail et d'éducation."
+  description: "Statistical analysis of work and education data."
 
 - title: "Movie Recommendation System with Java, Neo4J & Custom Processors"
   url: "https://github.com/mriusero/projet-cloud-2"
-  description: "Système de recommandation de films basé sur Java et Neo4J."
+  description: "A movie recommendation system based on Java and Neo4J."
 
 - title: "BI Architecture on Microsoft Azure"
   url: "https://github.com/mriusero/projet-BI"
-  description: "Architecture Business Intelligence sur Azure."
+  description: "Business Intelligence architecture on Azure."
 
 - title: "Kaggle Challenge for Predictive Maintenance on Industrial Robots"
   url: "https://github.com/mriusero/projet-sda-machine-learning"
-  description: "Challenge Kaggle sur la maintenance prédictive des robots industriels."
+  description: "Kaggle challenge on predictive maintenance of industrial robots."
 
 - title: "MLOps Project with MLflow, CI/CD & AWS Deployment"
   url: "https://github.com/mriusero/projet-sda-mlops"
-  description: "Projet MLOps avec MLflow et déploiement CI/CD sur AWS."
+  description: "MLOps project with MLflow and CI/CD deployment on AWS."
 
 - title: "Low-Latency Travel Price Calculation with Apache NiFi & GCP"
   url: "https://github.com/mriusero/projet-sda-cloud-3"
-  description: "Calcul en temps réel des prix de voyages avec Apache NiFi et Google Cloud."
+  description: "Real-time travel price calculation using Apache NiFi and Google Cloud."
 
 - title: "Deep Learning"
   url: "https://github.com/mriusero/to-create"
-  description: "Exploration des concepts avancés en deep learning."
+  description: "Exploration of advanced deep learning concepts."
 
 - title: "Gen AI"
   url: "https://github.com/mriusero/to-create"
-  description: "Génération d'IA et apprentissage automatique."
+  description: "AI generation and machine learning."
