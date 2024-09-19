@@ -3,6 +3,16 @@ layout: default
 title: "My Learning Projects"
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CTDYV2ZQPN"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-CTDYV2ZQPN');
+</script>
+
 # My Learning Projects
 
 Welcome to my personal portfolio, where I showcase my learning projects. Below, you'll find various repositories covering topics from Python to Cloud Computing and Machine Learning.
@@ -13,8 +23,8 @@ Welcome to my personal portfolio, where I showcase my learning projects. Below, 
 
 ## Project 1
 **[Python Handling with Exchange Data](https://github.com/mriusero/projet-python)**  
-**Description:** This project explores exchange data analysis using Python.
-
+**Description:** This project explores exchange data analysis using Python.  
+*[See more](_projects/repo1.md)*
 ---
 
 ## Project 2
@@ -79,5 +89,15 @@ Welcome to my personal portfolio, where I showcase my learning projects. Below, 
 
 Feel free to explore each project for more detailed insights.
 
-* **[About me](pages/about.md)** 
-* **[Contact](pages/about.md)**
+---
+**[About me](pages/about.md)**
+
+<a href="https://www.linkedin.com/in/marius-ayrault/">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30">
+</a>
+<a href="https://github.com/mriusero">
+  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="30" height="30">
+</a>
+<a href="mailto:marius.ayrault@outlook.com">
+  <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" alt="Email" width="30" height="30">
+</a>

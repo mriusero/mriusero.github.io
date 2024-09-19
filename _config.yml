@@ -18,7 +18,7 @@ gem:
 title: "Portfolio"
 description: "Showcasing my learning projects"
 show_downloads: false
-google_analytics: ## UA-XXXXXXXX-X
+google_analytics: G-CTDYV2ZQPN
 
 # Custom navigation
 navigation:
